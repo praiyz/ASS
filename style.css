@@ -1,0 +1,86 @@
+/* body {
+  font-family: Arial, sans-serif;
+  color: #333;
+  background-color: #f4f4f4;
+  padding: 50px;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+.logo {
+}
+.nav {
+  display: flex;
+  align-items: center;
+}
+.nav span {
+  margin-left: 20px;
+  font-weight: bold;
+  color: #333;
+}
+.contact-us {
+  margin-left: 20px;
+  padding: 10px 20px;
+  background-color: #333;
+  color: #fff;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.contact-us:hover {
+  background-color: brown;
+}
+.main {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  padding: 50px 10%;
+  background-color: #fafafa;
+  position: relative;
+}
+.text h1 {
+  font-size: 48px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+.subtitle {
+  font-weight: bold;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.description {
+  font-size: 16px;
+  color: #666;
+  max-width: 600px;
+}
+
+.image {
+  margin-top: 30px;
+  max-width: 100%;
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-left: -20%;
+  
+}
+.text {
+  max-width: 600px;
+  max-width: 50%;
+  position: relative;
+  padding-right: 20px;
+}
+.discover{
+    font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-weight: bolder;
+  font-size: 5rem;
+  z-index: 10;
+} */
